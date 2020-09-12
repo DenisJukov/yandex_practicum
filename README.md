@@ -2,4 +2,4 @@
 ## Данный репозиторий содержит образовательные проекты Яндекс.Практикума по направлению "Специалист по Data Science".
 | Название проекта | Описание | Инструментарий |
 | :--------------- | -------- | -------------- |
-| [Link for specific project](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/time_series) | -- | -- |
+| [Прогнозирование заказов такси](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/time_series) | выполняется задача определения количества заказов такси на следующий час | RandomForestClassifier, Pandas, adfuller |
