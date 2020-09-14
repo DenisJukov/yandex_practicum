@@ -1,8 +1,8 @@
 ## Данный репозиторий содержит образовательные проекты Яндекс.Практикума по направлению "Специалист по Data Science".
 | Название проекта | Описание | Инструментарий |
 | :---------------: | :--------: | :--------------: |
-| [Определение оттока клиентов банка](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/bank_customer_churn) | **задача:** выявление оттока клиентов банка. **Статус проекта**: завершен в полном объеме. | `Sklearn`, `Seaborn`, `Pandas`, `Matplotlib` |
-| [Прогнозирование стоимости автомобилей](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/automobile_price) | **задача:** определение рыночной цены автомобилей. **Статус проекта**: завершен в полном объеме. | `Sklearn`, `LightGBM`, `Pandas`, `SciPy` |
+| [Определение оттока клиентов банка](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/bank_customer_churn) | **задача:** выявление оттока клиентов банка. | `Sklearn`, `Seaborn`, `Pandas`, `Matplotlib` |
+| [Прогнозирование стоимости автомобилей](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/automobile_price) | **задача:** определение рыночной цены автомобилей. | `Sklearn`, `LightGBM`, `Pandas`, `SciPy` |
 | [Определение надежности клиентов](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/credit_approval) | **задача:** выявление платежеспособности клиентов по кредитным обязательствам | `NLTK`, `Pymystem3`, `Pandas`, `Matplotlib` |
 | [Определение прибыльности компьютерных игр](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/game_ads) | **задача:** определение факторов, которые повышают продажи компьютерных игр и сопутствующих игровых платформ | `NLTK`, `SciPy`, `Pandas`, `Matplotlib` |
 | [Прогнозирование объема золота в руде](https://github.com/UrmatDzhunkeev/yandex_practicum/tree/master/gold_flotation) | **задача:** определение руды, освоение которой принесет наибольшую прибыль | `Sklearn`, `Pandas`, `Matplotlib` |
